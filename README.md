@@ -75,38 +75,39 @@ Introduction to Computer Programming (CSCI-UA) or departmental permission assess
 The course schedule is tentative and *will* be adjusted along the way.
 
 ### Part 1: Fundamentals of Programming
-| Date       | Topic                     | Chapter | Slides                                                                                                           |
-| ---------- | ------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------- |
-| 10/05/2020 | Single dimensional arrays | 7       | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture5-arrays.pdf) |
-| 10/07/2020 | Two dimensional arrays    | 8       | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020/raw/master/slides/lecture6-ndarrays.pdf) |
-| 10/12/2020 | Hands on                  |         |
+| Date       | Topic                     | Chapter | Slides                                                                                                             |
+| ---------- | ------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------ |
+| 10/05/2020 | Single dimensional arrays | 7       | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture5-arrays.pdf)   |
+| 10/07/2020 | Methods                   | 6       | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture4-methods.pdf)  |
+| 10/12/2020 | Two dimensional arrays    | 8       | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture6-ndarrays.pdf) |
+| 10/14/2020 | Hands on                  |         |                                                                                                                    |
 
 ### Part 2: Object oriented programming and design
 | Date       | Topic                    | Chapter | Slides |
 | ---------- | ------------------------ | ------- | ------ |
-| 10/14/2020 | Objects and classes      | 9       |        |
 | 10/19/2020 | Objects and classes      | 9       |        |
-| 10/21/2020 | Project 1 discussion     |         |        |
-| 10/26/2020 | Hands on                 |         |        |
-| 10/28/2020 | Midterm review           | 1-10    |        |
-| 11/02/2020 | Midterm                  |         |        |
-| 11/04/2020 | Object oriented thinking | 10      |        |
+| 10/21/2020 | Objects and classes      | 9       |        |
+| 10/26/2020 | Project 1 discussion     |         |        |
+| 10/28/2020 | Hands on                 |         |        |
+| 11/02/2020 | Midterm review           | 1-10    |        |
+| 11/04/2020 | Midterm                  |         |        |
 | 11/09/2020 | Object oriented thinking | 10      |        |
+| 11/11/2020 | Object oriented thinking | 10      |        |
 
 ### Part 3: Advanced concepts
 
 | Date       | Topic                           | Chapter | Slides |
 | ---------- | ------------------------------- | ------- | ------ |
-| 11/11/2020 | Inheritance and polymorphism    | 11      |        |
 | 11/16/2020 | Inheritance and polymorphism    | 11      |        |
-| 11/18/2020 | Midterm discussion              |         |        |
-| 11/23/2020 | Abstract classes and interfaces | 13      |        |
+| 11/18/2020 | Inheritance and polymorphism    | 11      |        |
+| 11/23/2020 | Midterm discussion              |         |        |
 | 11/25/2020 | Abstract classes and interfaces | 13      |        |
-| 11/30/2020 | Hands on                        |         |        |
-| 12/02/2020 | Exception handling and text I/O | 12      |        |
+| 11/30/2020 | Abstract classes and interfaces | 13      |        |
+| 12/02/2020 | Hands on                        |         |        |
 | 12/07/2020 | Exception handling and text I/O | 12      |        |
-| 12/09/2020 | Hands on                        |         |        |
-| 12/14/2020 | Review for the final exam       | 1-13    |        |
+| 12/09/2020 | Exception handling and text I/O | 12      |        |
+| 12/14/2020 | Hands on                        |         |        |
+| 12/16/2020 | Review for the final exam       | 1-13    |        |
 
 
 ## Hands on activities
@@ -115,5 +116,6 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 
 ## Assignments
-| Number | Date | Due date | link |
-| ------ | ---- | -------- | ---- |
+| Number | Date       | Due date   | link                                                                                                                                                                                                                                                  |
+| ------ | ---------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | 10/07/2020 | 10/12/2020 | [Assignment 1](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/assignment/Assignment1.pdf) [ASCII Art](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/master/assignment/Assignment1.txt) |

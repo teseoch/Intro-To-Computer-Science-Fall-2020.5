@@ -1,108 +1,104 @@
-class GOL {
-
-	public static void init(boolean[][] alive, double percentage)
+public class GOL {
+	public static void init(boolean[][] alive, double alivePerc)
 	{
-		//assume that alive is squared!
-		int n = alive.length;
+		//assume the grid is squared
+		int n = alive.length; //len(alive)
 
 		for(int i = 0; i < n; ++i)
 		{
 			for(int j = 0; j < n; ++j)
 			{
-				alive[i][j] = Math.random() < percentage;
+				alive[i][j] = Math.random() < alivePerc;
 			}
 		}
 	}
 
 	public static void print(boolean[][] alive)
 	{
-		//assume that alive is squared!
+		char aliveChar = (char) 0x2B1B;
+		//assume the grid is squared
 		int n = alive.length;
-
-		int c = 0x2B1B;
-		char code = (char)c;
 
 		for(int i = 0; i < n; ++i)
 		{
 			for(int j = 0; j < n; ++j)
 			{
 				if(alive[i][j])
-				{
-					System.out.print(code);
-				}
+					System.out.print(aliveChar);
 				else
-				{
 					System.out.print("  ");
-				}
 			}
 
-			System.out.println();
+			System.out.println("");
 		}
 	}
 
 	public static boolean isAlive(boolean[][] alive, int i, int j)
 	{
-		//assume that alive is squared!
-		//assume that i > -n
+		//what do we do with negative indices (or >= n)
 		int n = alive.length;
-		//i=-1
+		//i = n -> i -> 0
+		//i=n+1->i -> i
+		// i=-1 -> i -> n-1
 
-		//(x + kn) % n = x % n
+		// + 0 // a + 0 = a
+		// * 1
+		// a % n = (a+kn) % n
 
+		//a=2, n=3 a%n = 2 4%3 =1
 
-		int x = (i + n) % n;
-		int y = (j + n) % n;
+		//assume that i,j >= -n
+		int x = (i+n) % n;
+		int y = (j+n) % n;
 
 		return alive[x][y];
 	}
 
-	public static int aliveNeigh(boolean[][] alive, int i, int j)
+	public static int countAliveNeighs(boolean[][] alive, int i, int j)
 	{
-		int aliveN = 0;
-		for(int x = i - 1; x <= i + 1; ++x)
+		int nAlive = 0;
+		for(int x = i-1; x <= i+1; x++)
 		{
-			for(int y = j - 1; y <= j + 1; ++y)
+			for(int y = j-1; y <= j+1; y++)
 			{
 				if(x == i && y == j)
 					continue;
 
-				if(isAlive(alive,x, y))
-					aliveN++;
+				if(isAlive(alive, x, y)) //alive[x][y]
+					nAlive++;
 			}
 		}
 
-		return aliveN;
+		return nAlive;
 	}
 
 	public static void update(boolean[][] alive)
 	{
-		//assume that alive is squared!
-		int n = alive.length;
+		//assume the grid is squared
+		int n = alive.length; //len(alive)
 
-		boolean[][] next = new boolean[n][n];
+		boolean[][] newAlive = new boolean[n][n];
 
 		for(int i = 0; i < n; ++i)
 		{
 			for(int j = 0; j < n; ++j)
 			{
-				int nAlive = aliveNeigh(alive, i, j);
-
-				//current cell is alive
-				if(alive[i][j])
+				int nAlive = countAliveNeighs(alive, i, j);
+				if(isAlive(alive, i, j))
 				{
 					if(nAlive < 2)
-						next[i][j] = false;
+						newAlive[i][j] = false;
 					else if(nAlive == 2 || nAlive == 3)
-						next[i][j] = true;
+						newAlive[i][j] = true;
 					else
-						next[i][j] = false;
+						newAlive[i][j] = false;
 				}
-				else//the current cell is dead
+				else
 				{
 					if(nAlive == 3)
-						next[i][j] = true;
+						newAlive[i][j] = true;
 					else
-						next[i][j] = false;
+						newAlive[i][j] = false;
 				}
 			}
 		}
@@ -111,40 +107,36 @@ class GOL {
 		{
 			for(int j = 0; j < n; ++j)
 			{
-				alive[i][j] = next[i][j];
+				alive[i][j] = newAlive[i][j];
 			}
 		}
 	}
 
-	public static void main(String[] args)
-	{
+	public static void main(String[] args) {
 		int n = 100;
 
-
 		boolean[][] alive = new boolean[n][n];
-		init(alive, 0.3);
-		// // alive[0][0] = true;
+		init(alive, 0.2);
+		// alive[0][0] = true;
+		// alive[0][1] = true;
+		// alive[1][0] = true;
 		// alive[1][1] = true;
-		// alive[1][2] = true;
-		// alive[2][1] = true;
-		// alive[2][2] = true;
-		// // alive[0][2] = true;
 
 		while(true)
 		{
 			print(alive);
 			update(alive);
 
-			try
+			 try 
 			{
-				Thread.sleep(100);
-			}
-			catch(InterruptedException ex)
+			    Thread.sleep(200);
+			} 
+			catch(InterruptedException e)
 			{
-				Thread.currentThread().interrupt();
+			     // this part is executed when an exception (in this example InterruptedException) occurs
 			}
 
-			System.out.print("\033[H\033[2J");
+					System.out.print("\033[H\033[2J");
 			System.out.flush();
 		}
 	}

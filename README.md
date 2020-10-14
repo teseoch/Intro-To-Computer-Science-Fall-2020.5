@@ -80,7 +80,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 10/05/2020 | Single dimensional arrays | 7       | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture5-arrays.pdf)   |
 | 10/07/2020 | Methods                   | 6       | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture4-methods.pdf)  |
 | 10/12/2020 | Two dimensional arrays    | 8       | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture6-ndarrays.pdf) |
-| 10/14/2020 | Hands on                  |         |                                                                                                                    |
+| 10/14/2020 | Hands on                  |         | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/handson2.pdf)          |
 
 ### Part 2: Object oriented programming and design
 | Date       | Topic                    | Chapter | Slides |
@@ -111,11 +111,13 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 
 ## Hands on activities
-| Number | Date | Material |
-| ------ | ---- | -------- |
+| Number | Date       | Material                                                                                                  |
+| ------ | ---------- | --------------------------------------------------------------------------------------------------------- |
+| 2      | 10/14/2020 | [GOL.java](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/material/GOL.java) |
 
 
 ## Assignments
-| Number | Date       | Due date   | link                                                                                                                                                                                                                                                  |
-| ------ | ---------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | 10/07/2020 | 10/12/2020 | [Assignment 1](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/assignment/Assignment1.pdf) [ASCII Art](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/master/assignment/Assignment1.txt) |
+| Number  | Date       | Due date   | link                                                                                                                                                                                                                                                  |
+| ------- | ---------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1       | 10/07/2020 | 10/12/2020 | [Assignment 1](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/assignment/Assignment1.pdf) [ASCII Art](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/master/assignment/Assignment1.txt) |
+| Project | 10/14/2020 | 10/28/2020 | [Project](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/assignment/project.pdf)                                                                                                                                         |

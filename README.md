@@ -63,8 +63,8 @@ Introduction to Computer Programming (CSCI-UA) or departmental permission assess
 - [Methods](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture4-methods.pdf)
 - [Single dimensional arrays](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture5-arrays.pdf)
 - [Two dimensional arrays](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture6-ndarrays.pdf)
-<!-- [Objects and classes](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture7-objects.pdf)
-- [Object oriented thinking](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture8-thinkingoo.pdf)
+- [Objects and classes](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture7-objects.pdf)
+<!-- [Object oriented thinking](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture8-thinkingoo.pdf)
 - [Inheritance and Polymorphism](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture9-polymorphism.pdf)
 - [Abstract Classes and Interfaces](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture10-interfaces.pdf)
 - [Exception and Text IO](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture11-exception-IO.pdf) -->
@@ -83,16 +83,16 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 10/14/2020 | Hands on                  |         | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/handson2.pdf)          |
 
 ### Part 2: Object oriented programming and design
-| Date       | Topic                    | Chapter | Slides |
-| ---------- | ------------------------ | ------- | ------ |
-| 10/19/2020 | Objects and classes      | 9       |        |
-| 10/21/2020 | Objects and classes      | 9       |        |
-| 10/26/2020 | Project 1 discussion     |         |        |
-| 10/28/2020 | Hands on                 |         |        |
-| 11/02/2020 | Midterm review           | 1-10    |        |
-| 11/04/2020 | Midterm                  |         |        |
-| 11/09/2020 | Object oriented thinking | 10      |        |
-| 11/11/2020 | Object oriented thinking | 10      |        |
+| Date       | Topic                    | Chapter | Slides                                                                                                            |
+| ---------- | ------------------------ | ------- | ----------------------------------------------------------------------------------------------------------------- |
+| 10/19/2020 | Objects and classes      | 9       | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture7-objects.pdf) |
+| 10/21/2020 | Objects and classes      | 9       |                                                                                                                   |
+| 10/26/2020 | Project 1 discussion     |         |                                                                                                                   |
+| 10/28/2020 | Hands on                 |         |                                                                                                                   |
+| 11/02/2020 | Midterm review           | 1-10    |                                                                                                                   |
+| 11/04/2020 | Midterm                  |         |                                                                                                                   |
+| 11/09/2020 | Object oriented thinking | 10      |                                                                                                                   |
+| 11/11/2020 | Object oriented thinking | 10      |                                                                                                                   |
 
 ### Part 3: Advanced concepts
 

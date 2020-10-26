@@ -19,8 +19,7 @@ Monday and Wednesday at 11:00am - 12:15am (EST) Live Online
 
 
 ### Final exam
-<!-- Thu. May, 14, 2020 (05/14/2020) 2:00PM - 3:50PM, room TBA -->
-TBA
+Friday December 18, 2020 (12/18/2020) 12:00pm - 1:50pm EST
 
 ### Textbook
 
@@ -86,9 +85,9 @@ The course schedule is tentative and *will* be adjusted along the way.
 | Date       | Topic                    | Chapter | Slides                                                                                                            |
 | ---------- | ------------------------ | ------- | ----------------------------------------------------------------------------------------------------------------- |
 | 10/19/2020 | Objects and classes      | 9       | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture7-objects.pdf) |
-| 10/21/2020 | Objects and classes      | 9       |                                                                                                                   |
-| 10/26/2020 | Project 1 discussion     |         |                                                                                                                   |
-| 10/28/2020 | Hands on                 |         |                                                                                                                   |
+| 10/21/2020 | Objects and classes      | 9       | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture7-objects.pdf) |
+| 10/26/2020 | Hands on                 |         |                                                                                                                   |
+| 10/28/2020 | Project 1 discussion     |         |                                                                                                                   |
 | 11/02/2020 | Midterm review           | 1-10    |                                                                                                                   |
 | 11/04/2020 | Midterm                  |         |                                                                                                                   |
 | 11/09/2020 | Object oriented thinking | 10      |                                                                                                                   |

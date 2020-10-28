@@ -85,7 +85,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 | Date       | Topic                    | Chapter | Slides                                                                                                            |
 | ---------- | ------------------------ | ------- | ----------------------------------------------------------------------------------------------------------------- |
 | 10/19/2020 | Objects and classes      | 9       | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture7-objects.pdf) |
-| 10/21/2020 | Objects and classes      | 9       | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture7-objects.pdf) |
+| 10/21/2020 | Objects and classes      | 9       | [Circle.java](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/material/Circle.java)   |
 | 10/26/2020 | Hands on                 |         |                                                                                                                   |
 | 10/28/2020 | Project 1 discussion     |         |                                                                                                                   |
 | 11/02/2020 | Midterm review           | 1-10    |                                                                                                                   |
@@ -110,9 +110,10 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 
 ## Hands on activities
-| Number | Date       | Material                                                                                                  |
-| ------ | ---------- | --------------------------------------------------------------------------------------------------------- |
-| 2      | 10/14/2020 | [GOL.java](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/material/GOL.java) |
+| Number | Date       | Material                                                                                                    |
+| ------ | ---------- | ----------------------------------------------------------------------------------------------------------- |
+| 1      | 10/14/2020 | [GOL.java](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/material/GOL.java)   |
+| 2      | 10/28/2020 | [Grid.java](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/material/Grid.java) |
 
 
 ## Assignments
@@ -120,3 +121,4 @@ The course schedule is tentative and *will* be adjusted along the way.
 | ------- | ---------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1       | 10/07/2020 | 10/12/2020 | [Assignment 1](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/assignment/Assignment1.pdf) [ASCII Art](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/master/assignment/Assignment1.txt) |
 | Project | 10/14/2020 | 10/28/2020 | [Project](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/assignment/project.pdf)                                                                                                                                         |
+| 2       | 10/28/2020 | 11/02/2020 | [Assignment 2](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/assignment/Assignment2.pdf)                                                                                                                                |

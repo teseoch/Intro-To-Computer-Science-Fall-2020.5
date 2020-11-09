@@ -63,8 +63,8 @@ Introduction to Computer Programming (CSCI-UA) or departmental permission assess
 - [Single dimensional arrays](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture5-arrays.pdf)
 - [Two dimensional arrays](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture6-ndarrays.pdf)
 - [Objects and classes](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture7-objects.pdf)
-<!-- [Object oriented thinking](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture8-thinkingoo.pdf)
-- [Inheritance and Polymorphism](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture9-polymorphism.pdf)
+- [Object oriented thinking](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture8-thinkingoo.pdf)
+<!-- [Inheritance and Polymorphism](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture9-polymorphism.pdf)
 - [Abstract Classes and Interfaces](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture10-interfaces.pdf)
 - [Exception and Text IO](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture11-exception-IO.pdf) -->
 
@@ -94,20 +94,20 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 ### Part 3: Advanced concepts
 
-| Date       | Topic                           | Chapter | Slides |
-| ---------- | ------------------------------- | ------- | ------ |
-| 11/09/2020 | Object oriented thinking        | 10      |        |
+| Date       | Topic                           | Chapter | Slides                                                                                                               |
+| ---------- | ------------------------------- | ------- | -------------------------------------------------------------------------------------------------------------------- |
+| 11/09/2020 | Object oriented thinking        | 10      | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture8-thinkingoo.pdf) |
 | 11/11/2020 | Object oriented thinking        | 10      |
-| 11/16/2020 | Inheritance and polymorphism    | 11      |        |
-| 11/18/2020 | Inheritance and polymorphism    | 11      |        |
-| 11/23/2020 | Midterm discussion              |         |        |
-| 11/25/2020 | Abstract classes and interfaces | 13      |        |
-| 11/30/2020 | Abstract classes and interfaces | 13      |        |
-| 12/02/2020 | Hands on                        |         |        |
-| 12/07/2020 | Exception handling and text I/O | 12      |        |
-| 12/09/2020 | Exception handling and text I/O | 12      |        |
-| 12/14/2020 | Hands on                        |         |        |
-| 12/16/2020 | Review for the final exam       | 1-13    |        |
+| 11/16/2020 | Inheritance and polymorphism    | 11      |                                                                                                                      |
+| 11/18/2020 | Inheritance and polymorphism    | 11      |                                                                                                                      |
+| 11/23/2020 | Midterm discussion              |         |                                                                                                                      |
+| 11/25/2020 | Abstract classes and interfaces | 13      |                                                                                                                      |
+| 11/30/2020 | Abstract classes and interfaces | 13      |                                                                                                                      |
+| 12/02/2020 | Hands on                        |         |                                                                                                                      |
+| 12/07/2020 | Exception handling and text I/O | 12      |                                                                                                                      |
+| 12/09/2020 | Exception handling and text I/O | 12      |                                                                                                                      |
+| 12/14/2020 | Hands on                        |         |                                                                                                                      |
+| 12/16/2020 | Review for the final exam       | 1-13    |                                                                                                                      |
 
 
 ## Hands on activities

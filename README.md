@@ -94,20 +94,20 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 ### Part 3: Advanced concepts
 
-| Date       | Topic                           | Chapter | Slides                                                                                                               |
-| ---------- | ------------------------------- | ------- | -------------------------------------------------------------------------------------------------------------------- |
-| 11/09/2020 | Object oriented thinking        | 10      | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture8-thinkingoo.pdf) |
-| 11/11/2020 | Object oriented thinking        | 10      |
-| 11/16/2020 | Inheritance and polymorphism    | 11      |                                                                                                                      |
-| 11/18/2020 | Inheritance and polymorphism    | 11      |                                                                                                                      |
-| 11/23/2020 | Midterm discussion              |         |                                                                                                                      |
-| 11/25/2020 | Abstract classes and interfaces | 13      |                                                                                                                      |
-| 11/30/2020 | Abstract classes and interfaces | 13      |                                                                                                                      |
-| 12/02/2020 | Hands on                        |         |                                                                                                                      |
-| 12/07/2020 | Exception handling and text I/O | 12      |                                                                                                                      |
-| 12/09/2020 | Exception handling and text I/O | 12      |                                                                                                                      |
-| 12/14/2020 | Hands on                        |         |                                                                                                                      |
-| 12/16/2020 | Review for the final exam       | 1-13    |                                                                                                                      |
+| Date       | Topic                           | Chapter | Slides                                                                                                                    |
+| ---------- | ------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 11/09/2020 | Object oriented thinking        | 10      | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture8-thinkingoo.pdf)      |
+| 11/11/2020 | Object oriented thinking        | 10      | [StackOfInts.java](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/material/StackOfInts.java) |
+| 11/16/2020 | Inheritance and polymorphism    | 11      |                                                                                                                           |
+| 11/18/2020 | Inheritance and polymorphism    | 11      |                                                                                                                           |
+| 11/23/2020 | Midterm discussion              |         |                                                                                                                           |
+| 11/25/2020 | Abstract classes and interfaces | 13      |                                                                                                                           |
+| 11/30/2020 | Abstract classes and interfaces | 13      |                                                                                                                           |
+| 12/02/2020 | Hands on                        |         |                                                                                                                           |
+| 12/07/2020 | Exception handling and text I/O | 12      |                                                                                                                           |
+| 12/09/2020 | Exception handling and text I/O | 12      |                                                                                                                           |
+| 12/14/2020 | Hands on                        |         |                                                                                                                           |
+| 12/16/2020 | Review for the final exam       | 1-13    |                                                                                                                           |
 
 
 ## Hands on activities
@@ -123,3 +123,4 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 1       | 10/07/2020 | 10/12/2020 | [Assignment 1](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/assignment/Assignment1.pdf) [ASCII Art](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/master/assignment/Assignment1.txt) |
 | Project | 10/14/2020 | 10/28/2020 | [Project](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/assignment/project.pdf)                                                                                                                                         |
 | 2       | 10/28/2020 | 11/02/2020 | [Assignment 2](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/assignment/Assignment2.pdf)                                                                                                                                |
+| 3       | 11/11/2020 | 11/16/2020 | [Assignment 3](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/assignment/Assignment3.pdf)                                                                                                                                |

@@ -98,12 +98,12 @@ The course schedule is tentative and *will* be adjusted along the way.
 | ---------- | ------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------- |
 | 11/09/2020 | Object oriented thinking        | 10      | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture8-thinkingoo.pdf)      |
 | 11/11/2020 | Object oriented thinking        | 10      | [StackOfInts.java](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/material/StackOfInts.java) |
-| 11/16/2020 | Inheritance and polymorphism    | 11      |                                                                                                                           |
-| 11/18/2020 | Inheritance and polymorphism    | 11      |                                                                                                                           |
-| 11/23/2020 | Midterm discussion              |         |                                                                                                                           |
-| 11/25/2020 | Abstract classes and interfaces | 13      |                                                                                                                           |
+| 11/16/2020 | Midterm discussion              |         |                                                                                                                           |
+| 11/18/2020 | Hands on                        |         |                                                                                                                           |
+| 11/23/2020 | Inheritance and polymorphism    | 11      |                                                                                                                           |
+| 11/25/2020 | Inheritance and polymorphism    | 11      |                                                                                                                           |
 | 11/30/2020 | Abstract classes and interfaces | 13      |                                                                                                                           |
-| 12/02/2020 | Hands on                        |         |                                                                                                                           |
+| 12/02/2020 | Abstract classes and interfaces | 13      |                                                                                                                           |
 | 12/07/2020 | Exception handling and text I/O | 12      |                                                                                                                           |
 | 12/09/2020 | Exception handling and text I/O | 12      |                                                                                                                           |
 | 12/14/2020 | Hands on                        |         |                                                                                                                           |

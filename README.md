@@ -51,9 +51,9 @@ Introduction to Computer Programming (CSCI-UA) or departmental permission assess
 - [Java SDK](https://www.oracle.com/java/technologies/javase-downloads.html)
 - [Getting started](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/material/getting_started.pdf)
 - [Eclipse](https://www.eclipse.org/)
-<!--- [Getting started Processing](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/material/getting_started_processing.pdf)
+- [Getting started Processing](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/material/getting_started_processing.pdf)
 - [Core.jar](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/blob/master/material/core.jar.zip?raw=true)
-- [Processing](https://processing.org/) -->
+- [Processing](https://processing.org/)
 
 ### Slides
  - [Welcome](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture1-welcome.pdf)

@@ -111,10 +111,11 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 
 ## Hands on activities
-| Number | Date       | Material                                                                                                    |
-| ------ | ---------- | ----------------------------------------------------------------------------------------------------------- |
-| 1      | 10/14/2020 | [GOL.java](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/material/GOL.java)   |
-| 2      | 10/28/2020 | [Grid.java](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/material/Grid.java) |
+| Number | Date       | Material                                                                                                                    |
+| ------ | ---------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 1      | 10/14/2020 | [GOL.java](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/material/GOL.java)                   |
+| 2      | 10/28/2020 | [Grid.java](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/material/Grid.java)                 |
+| 1      | 10/14/2020 | [GOLProcessing.zip](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/material/GOLProcessing.zip) |
 
 
 ## Assignments

@@ -106,9 +106,6 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 12/02/2020 | Abstract classes and interfaces | 13      | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture10-interfaces.pdf)     |
 | 12/07/2020 | Abstract classes and interfaces | 13      | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture10-interfaces.pdf)     |
 | 12/09/2020 | Exception handling and text I/O | 12      |                                                                                                                           |
-| 12/14/2020 | Exception handling and text I/O | 12      |                                                                                                                           |
-| 12/16/2020 | Review for the final exam       | 1-13    |                                                                                                                           |
-
 
 ## Hands on activities
 | Number | Date       | Material                                                                                                                    |

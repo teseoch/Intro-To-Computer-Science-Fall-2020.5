@@ -65,8 +65,8 @@ Introduction to Computer Programming (CSCI-UA) or departmental permission assess
 - [Objects and classes](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture7-objects.pdf)
 - [Object oriented thinking](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture8-thinkingoo.pdf)
 - [Inheritance and Polymorphism](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture9-polymorphism.pdf)
-<!-- [Abstract Classes and Interfaces](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture10-interfaces.pdf)
-- [Exception and Text IO](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture11-exception-IO.pdf) -->
+- [Abstract Classes and Interfaces](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture10-interfaces.pdf)
+<!-- [Exception and Text IO](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture11-exception-IO.pdf) -->
 
 
 ## Schedule and Course Notes:
@@ -103,10 +103,10 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 11/23/2020 | Inheritance and polymorphism    | 11      | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture9-polymorphism.pdf)    |
 | 11/25/2020 | Inheritance and polymorphism    | 11      | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture9-polymorphism.pdf)    |
 | 11/30/2020 | Inheritance and polymorphism    | 11      | [CirlceGeom.zip](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/material/CirlceGeom.zip)     |
-| 12/02/2020 | Abstract classes and interfaces | 13      |                                                                                                                           |
-| 12/07/2020 | Abstract classes and interfaces | 12      |                                                                                                                           |
+| 12/02/2020 | Abstract classes and interfaces | 13      | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture10-interfaces.pdf)     |
+| 12/07/2020 | Abstract classes and interfaces | 13      | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture10-interfaces.pdf)     |
 | 12/09/2020 | Exception handling and text I/O | 12      |                                                                                                                           |
-| 12/14/2020 | Exception handling and text I/O |         |                                                                                                                           |
+| 12/14/2020 | Exception handling and text I/O | 12      |                                                                                                                           |
 | 12/16/2020 | Review for the final exam       | 1-13    |                                                                                                                           |
 
 

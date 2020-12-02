@@ -102,11 +102,11 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 11/18/2020 | Hands on                        |         |                                                                                                                           |
 | 11/23/2020 | Inheritance and polymorphism    | 11      | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture9-polymorphism.pdf)    |
 | 11/25/2020 | Inheritance and polymorphism    | 11      | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture9-polymorphism.pdf)    |
-| 11/30/2020 | Abstract classes and interfaces | 13      |                                                                                                                           |
+| 11/30/2020 | Inheritance and polymorphism    | 11      | [CirlceGeom.zip](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/material/CirlceGeom.zip)     |
 | 12/02/2020 | Abstract classes and interfaces | 13      |                                                                                                                           |
-| 12/07/2020 | Exception handling and text I/O | 12      |                                                                                                                           |
+| 12/07/2020 | Abstract classes and interfaces | 12      |                                                                                                                           |
 | 12/09/2020 | Exception handling and text I/O | 12      |                                                                                                                           |
-| 12/14/2020 | Hands on                        |         |                                                                                                                           |
+| 12/14/2020 | Exception handling and text I/O |         |                                                                                                                           |
 | 12/16/2020 | Review for the final exam       | 1-13    |                                                                                                                           |
 
 

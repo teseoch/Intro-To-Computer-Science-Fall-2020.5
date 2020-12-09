@@ -66,7 +66,7 @@ Introduction to Computer Programming (CSCI-UA) or departmental permission assess
 - [Object oriented thinking](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture8-thinkingoo.pdf)
 - [Inheritance and Polymorphism](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture9-polymorphism.pdf)
 - [Abstract Classes and Interfaces](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture10-interfaces.pdf)
-<!-- [Exception and Text IO](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture11-exception-IO.pdf) -->
+- [Exception and Text IO](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture11-exception-IO.pdf)
 
 
 ## Schedule and Course Notes:
@@ -105,7 +105,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 11/30/2020 | Inheritance and polymorphism    | 11      | [CirlceGeom.zip](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/material/CirlceGeom.zip)     |
 | 12/02/2020 | Abstract classes and interfaces | 13      | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture10-interfaces.pdf)     |
 | 12/07/2020 | Abstract classes and interfaces | 13      | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture10-interfaces.pdf)     |
-| 12/09/2020 | Exception handling and text I/O | 12      |                                                                                                                           |
+| 12/09/2020 | Exception handling and text I/O | 12      | [Slides](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/slides/lecture11-exception-IO.pdf)   |
 
 ## Hands on activities
 | Number | Date       | Material                                                                                                                    |
@@ -124,3 +124,4 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 3         | 11/11/2020 | 11/16/2020 | [Assignment 3](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/assignment/Assignment3.pdf)                                                                                                                                |
 | 4         | 11/18/2020 | 11/23/2020 | [Assignment 4](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/assignment/Assignment4.pdf)                                                                                                                                |
 | Project 2 | 11/23/2020 | 12/09/2020 | [Project 2](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/assignment/Project2.pdf)                                                                                                                                      |
+| Bonus     | 12/09/2020 | 12/17/2020 | [Bonus](https://github.com/teseoch/Intro-To-Computer-Science-Fall-2020.5/raw/master/assignment/Assignment-bonus.pdf)                                                                                                                                  |
